@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">PinPoint — real-time event operations</title><desc id="desc">Conceptual workflow illustration: a venue report goes to staff verification and response coordination. This is an editorial diagram, not a screenshot or live incident data.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#27364b" stroke-width=".6"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="278" rx="14" fill="#101722" stroke="#293549"/>
+<text x="40" y="48" fill="#8ab4f8" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">FEATURED / TEAM EXO</text>
+<text x="38" y="110" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">PinPoint</text>
+<text x="40" y="150" fill="#a6b5ca" font-family="Arial,sans-serif" font-size="20">Clarity when every report matters.</text>
+<text x="40" y="229" fill="#778ca9" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">REPORT → VERIFY → COORDINATE</text>
+<rect x="638" y="28" width="520" height="222" rx="10" fill="#0d1117" stroke="#293b53"/><rect x="650" y="40" width="496" height="198" fill="url(#grid)"/>
+<path d="M670 78H815V126H899V76H1116V192H1024V220H780V171H670Z" fill="#152339" stroke="#3b5475" stroke-width="1.5"/>
+<path d="M734 123L848 166 963 128 1074 163" fill="none" stroke="#8ab4f8" stroke-width="2" stroke-dasharray="5 5"/>
+<circle cx="734" cy="123" r="18" fill="#182f50" stroke="#8ab4f8"/><circle cx="734" cy="123" r="5" fill="#a5c8ff"/>
+<circle cx="848" cy="166" r="8" fill="#0d1117" stroke="#8ab4f8" stroke-width="2"/><circle cx="963" cy="128" r="8" fill="#0d1117" stroke="#8ab4f8" stroke-width="2"/>
+<rect x="1053" y="144" width="42" height="38" rx="6" fill="#203d63" stroke="#8ab4f8"/><path d="M1066 163L1072 169 1083 156" fill="none" stroke="#b8d5ff" stroke-width="2"/>
+<text x="669" y="60" fill="#5f7592" font-family="monospace" font-size="10" letter-spacing="2">VENUE / WORKFLOW STUDY</text>
+</svg>
