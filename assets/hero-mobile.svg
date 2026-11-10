@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+<title id="title">Akhil Sharma — Developer and competitive programmer</title><desc id="desc">Information Technology at JIIT Noida, class of 2028. A charcoal and blue composition with a geometric routing motif.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#3674ce" stop-opacity=".18"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#202b3c" stroke-opacity=".38"/></pattern></defs>
+<rect x="1" y="1" width="718" height="358" rx="16" fill="#0d1117" stroke="#293549"/><path d="M56 68H85" stroke="#78a9ff" stroke-width="3"/><text x="98" y="73" fill="#9eacc1" font-size="13" letter-spacing="3" font-family="Arial,sans-serif">SIMPLYAKH1L / DEVELOPER</text>
+<text x="52" y="160" fill="#f0f6fc" font-size="62" font-weight="700" letter-spacing="-2" font-family="Arial,sans-serif">Akhil Sharma<tspan fill="#78a9ff">.</tspan></text>
+<text x="56" y="205" fill="#bdc9db" font-size="24" font-family="Arial,sans-serif">From algorithms to useful software.</text>
+<text x="56" y="281" fill="#8d9bb0" font-size="15" letter-spacing="1" font-family="Arial,sans-serif">JIIT NOIDA<tspan dx="20" fill="#46566e">/</tspan><tspan dx="20" fill="#8d9bb0">INFORMATION TECHNOLOGY</tspan><tspan dx="20" fill="#46566e">/</tspan><tspan dx="20" fill="#8d9bb0">2028</tspan></text>
+</svg>
