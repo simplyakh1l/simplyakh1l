@@ -9,10 +9,11 @@ SVG assets, and the snapshot refresh workflow belong here.
   supplied by Akhil Sharma. The problem total is cross-platform, not a repository count.
 - LinkedIn, LeetCode, and public email: supplied explicitly for this profile.
 - PinPoint: README, package.json, and report/role/agent implementation at
-  c7a8e7fdfacc32124574091cd57921493c48a76d. Presented as a Team EXO project.
+  c7a8e7fdfacc32124574091cd57921493c48a76d. Presented as a Team EXO project and the sole featured project.
 - Restaurant Menu Management System: main.py and dbconfig.py at
-  41d969394bbd0e125884e3549e549939210722c8. Only implemented add/view/delete operations are listed.
+  41d969394bbd0e125884e3549e549939210722c8. Inspected for technology provenance; omitted from featured projects at the owner’s request.
 - DSA: C++ solutions at 6bf5354d0b3444c43899b39a9a02f04df1684c8b.
+  Inspected for technology provenance; omitted from featured projects at the owner’s request.
 - Resume-Categorization-App was inspected but is not featured: its interface names
   other authors, so this profile does not claim sole authorship.
 - EventPulse is marked as a fork and is not presented as a separate original project.
@@ -46,4 +47,4 @@ names remain readable when images are blocked.
 ## Review
 
 Preview README.md on the branch in GitHub. Relative asset paths follow the branch
-and continue to work after merge. Do not merge until Akhil approves the design.
+and continue to work after merge. Akhil approved publication on 10 November 2026 after requesting removal of the Restaurant Menu Management and DSA project sections.

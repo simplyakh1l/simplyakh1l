@@ -19,4 +19,4 @@ Validated 10 November 2026.
   refresh fails, with a dated window and a direct live-calendar text fallback.
 - The review branch contains only profile files. No project repository was edited.
 
-The profile itself appears only after the owner merges the review PR into main.
+The owner approved publication on 10 November 2026. PinPoint is the sole featured project; Restaurant Menu Management and DSA notebook were removed before publication.

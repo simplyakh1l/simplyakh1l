@@ -19,7 +19,7 @@ I enjoy the part where a difficult problem becomes a clear, usable system: a map
 
 ## Selected work
 
-### 01 / PinPoint
+### PinPoint
 
 [![PinPoint — report, verify, coordinate. Real-time event operations.](./assets/pinpoint.svg)](https://github.com/simplyakh1l/PinPoint)
 
@@ -37,19 +37,6 @@ React · TypeScript · Convex · Tailwind CSS · Vite
 
 <sub>Team EXO project.</sub>
 
----
-
-### 02 / Restaurant Menu Management
-
-A focused **Python + MySQL** project for adding, viewing, and deleting menu records, with a small command-line interface and database-backed persistence.
-
-[View project ↗](https://github.com/simplyakh1l/Restaurant-Menu-Management-System)
-
-### 03 / DSA notebook
-
-An ongoing collection of **C++ solutions** to data structures and algorithms problems, including dynamic programming, trees, arrays, and range queries.
-
-[Browse solutions ↗](https://github.com/simplyakh1l/DSA)
 
 ## Toolkit
 
