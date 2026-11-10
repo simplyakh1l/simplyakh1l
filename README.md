@@ -63,7 +63,7 @@ Technologies present in my repositories, grouped by where I use them.
 
 ## Competitive programming
 
-**1,500+ problems solved** across DSA and competitive programming.  
+**1,500+ problems solved** across DSA and competitive programming.<br>
 **Codeforces Specialist** · Peak rating **1464** · [LeetCode ↗](https://leetcode.com/u/simply_akh1l/)
 
 | Year | Competition | Result |
