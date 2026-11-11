@@ -27,7 +27,7 @@ A custom deterministic extreme-point heuristic places cargo inside a van while e
 
 React · JavaScript · Three.js · Express · MongoDB
 
-[Explore the repository ↗](https://github.com/simplyakh1l/DockPlan) · [Packing algorithm](https://github.com/simplyakh1l/DockPlan/blob/main/docs/ALGORITHM.md)
+[Open DockPlan ↗](https://dockplan-jet.vercel.app) · [Explore the repository](https://github.com/simplyakh1l/DockPlan) · [Packing algorithm](https://github.com/simplyakh1l/DockPlan/blob/main/docs/ALGORITHM.md)
 
 ### Seller360
 
