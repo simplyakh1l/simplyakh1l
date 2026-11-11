@@ -19,6 +19,26 @@ I enjoy the part where a difficult problem becomes a clear, usable system: a map
 
 ## Selected work
 
+### DockPlan
+
+**3D cargo packing that considers every delivery stop.**
+
+A custom deterministic extreme-point heuristic places cargo inside a van while enforcing collision, door-clearance, payload, support, stacking and unloading constraints. An interactive Three.js viewer uses the actual computed coordinates, with server-validated unloading simulation and CSV workflows. Google account support keeps saved plans and vehicles private; hosted sign-in activation requires OAuth/database configuration.
+
+React · JavaScript · Three.js · Express · MongoDB
+
+[Explore the repository ↗](https://github.com/simplyakh1l/DockPlan) · [Packing algorithm](https://github.com/simplyakh1l/DockPlan/blob/main/docs/ALGORITHM.md)
+
+### Seller360
+
+**A voice-first workspace for seller account reviews.**
+
+Review disclosed sample seller performance, discuss evidence with Nova, and track approved next steps. Deterministic analytics stay separate from model reasoning; the app has no live marketplace connection and performs no marketplace transactions.
+
+React · TypeScript · Express · Gemini · Netlify
+
+[Open Seller360 ↗](https://seller360-akhil.netlify.app) · [Explore the repository](https://github.com/simplyakh1l/Seller360)
+
 ### PinPoint
 
 [![PinPoint — report, verify, coordinate. Real-time event operations.](./assets/pinpoint.svg)](https://github.com/simplyakh1l/PinPoint)
